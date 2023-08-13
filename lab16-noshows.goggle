@@ -1,7 +1,0 @@
-! name: Lab16 NoShows
-! description: Stuff for /dev/null
-! public: truex
-! author: glitsj16
-
-$discard
-$boost,site=en.wikipedia.org
