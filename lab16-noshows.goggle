@@ -1,6 +1,6 @@
 ! name: Lab16 NoShows
 ! description: Stuff for /dev/null
-! public: true
+! public: truex
 ! author: glitsj16
 
 $discard
