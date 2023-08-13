@@ -4,26 +4,6 @@
 ! author: glitsj16
 ! avatar: #000000
 
-! wildcards
-$discard,site=*hotel*
-$discard,site=360*
-$discard,site=ali*
-$discard,site=amazon*
-$discard,site=brandwatch*
-$discard,site=facebook*
-$discard,site=fb.*
-$discard,site=google*
-$discard,site=instagram.*
-$discard,site=instamber.*
-$discard,site=investor.*
-$discard,site=mashable.*
-$discard,site=pinterest*
-$discard,site=sumo.*
-$discard,site=travelport.*
-$discard,site=trip*
-$discard,site=westjet.*
-$discard,site=wizzair.*
-! specifics
 $discard,site=1337x.to
 $discard,site=163.com
 $discard,site=1688.com
@@ -423,6 +403,7 @@ $discard,site=independent.co.uk
 $discard,site=indiamart.com
 $discard,site=indiatimes.com
 $discard,site=indiegogo.com
+$discard,site=instagram.com
 $discard,site=instructure.com
 $discard,site=intel.com
 $discard,site=intuit.com
@@ -913,3 +894,25 @@ $discard,site=zippyshare.com
 $discard,site=zoho.com
 $discard,site=zol.com.cn
 $discard,site=zoom.us
+$discard,site=investor.pinterestinc.com
+$discard,site=pinterest.at
+$discard,site=pinterest.ca
+$discard,site=pinterest.ch
+$discard,site=pinterest.cl
+$discard,site=pinterest.co.kr
+$discard,site=pinterest.co.uk
+$discard,site=pinterest.com
+$discard,site=pinterest.com.au
+$discard,site=pinterest.com.mx
+$discard,site=pinterest.de
+$discard,site=pinterest.dk
+$discard,site=pinterest.es
+$discard,site=pinterest.fr
+$discard,site=pinterest.ie
+$discard,site=pinterest.it
+$discard,site=pinterest.nz
+$discard,site=pinterest.ph
+$discard,site=pinterest.pt
+$discard,site=pinterest.ru
+$discard,site=pinterestcareers.com
+/pinterest/$discard,site=instagram.com
