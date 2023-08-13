@@ -2,7 +2,6 @@
 ! description: Stuff for /dev/null
 ! public: true
 ! author: glitsj16
-! avatar: #000000
 
 $discard
 $boost,site=en.wikipedia.org
