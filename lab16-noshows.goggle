@@ -1,8 +1,8 @@
 ! name: Lab16 NoShows
-! description: Sites we never want to see
+! description: Stuff for /dev/null
 ! public: true
 ! author: glitsj16
 ! avatar: #000000
 
-$discard,site=1337x.to
-
+$discard
+$boost,site=en.wikipedia.org
