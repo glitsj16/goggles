@@ -1,6 +1,6 @@
 ! name: lab16-noshows
 ! description: Stuff we don't want to see. Up-ranked sites not vetted or endorsed by Brave.
-! public: false
+! public: true
 ! author: glitsj16
 ! avatar: #000000
 
